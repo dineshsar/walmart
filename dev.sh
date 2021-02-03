@@ -1,7 +1,2 @@
-
-this file is modified in din branch
-hello
-im adding an stash Stashed changes
-this file is created and editedin master branch
-this file is 1st modified in master branch
-hello
+nothing is added and im addind it in stash
+giving an stash
