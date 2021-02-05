@@ -1,5 +1,5 @@
 hai im creating stash file which is not stashing
-hello anil pannadda 
+man anil pannadda 
 muditu work pannu da
 eppo pathalum chatting eh va\
 	muditu work pannu
