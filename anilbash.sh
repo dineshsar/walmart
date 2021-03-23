@@ -1,5 +1,6 @@
-fot ((num=10,num>0,num--)
+for(( num=10;num>0;num-- ))
 do
+	echo -n $num
 
 echo "Enter username"
 read username
