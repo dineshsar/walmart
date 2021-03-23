@@ -1,16 +1,16 @@
-for(( num=10;num>0;num-- ))
+for(( num=1;num>0;num-- ))
 do
-	echo -n $num
-
 echo "Enter username"
 read username
 echo "Enter password"
-read password
 echo "if u enter the wrong password u have an awrd"
+read password
 if [[ ( $username == "admin" && $password == "panati" ) ]]; then
 echo "valid user"
 else
-echo "karadi"
+echo "black sheep"
+echo "fuck u"
 fi
+echo "bye"
 done
 
